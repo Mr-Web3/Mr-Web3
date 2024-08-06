@@ -4,7 +4,7 @@
 
 💞️ Collaboration is something I am keenly looking forward to, especially in projects that push the boundaries of web3 technology. I am fascinated by the endless possibilities and am always ready to explore new frontiers in this domain.
 
-📫 Feel free to reach out to me at contactcodebros@gmail.com for any exciting opportunities or discussions.
+📫 Feel free to reach out to me at team@decentralbros.xyz for any exciting opportunities or discussions.
 
 😄 On a personal note, I identify as a 'dude' and hold a deep respect for the diverse and unique identities we all bring to the table.
 
