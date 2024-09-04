@@ -6,6 +6,8 @@ Notably, Justin has developed staking reward dApps for both NFTs and ERC20 token
 
 Additionally, his development process is enhanced by a strong command of TypeScript, JavaScript, React, NextJS, Node.js, Tailwind CSS, and CSS, enabling him to build dynamic, scalable, and visually appealing applications.
 
+Owner & Co-Founder https://www.decentralbros.xyz
+
 
 <!---
 Mr-Web3/Mr-Web3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
