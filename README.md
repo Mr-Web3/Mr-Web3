@@ -53,7 +53,3 @@ On the frontend, I bring a strong command of **TypeScript, JavaScript, React, Ne
 
 ## GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr-web3&theme=matrix&margin-w=15&margin-h=15&no-bg=true&no-frame=true)  
-
----
-
-✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
