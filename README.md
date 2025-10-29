@@ -1,27 +1,38 @@
-# 👋 Justin AKA Mr-Web3  
+# 👋 Justin AKA Mr-Web3 | DBRO 
 
 ⚡ **Full Stack / Blockchain Developer Base Bound**  
 
-With 7 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
+With 8 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
-- 🚀 IPFS, ERC20 tokens, NFTs, minting sites  
-- 💸 Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
-- 🏗️ RWAs, APIs, developer tools, DeFi utilities  
-- 🌐 Decentralized social media platforms & digital ticketing dApps  
-- 🖼️ Multi-minting systems using ERC1155 and ERC721A  
+- IPFS, ERC20 tokens, NFTs, minting sites  
+- Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
+- RWAs, APIs, developer tools, DeFi utilities  
+- Decentralized social media platforms & digital ticketing dApps  
+- Multi-minting systems using ERC1155 and ERC721A  
 
 Notably, I’ve developed:  
-- ✅ Staking reward dApps for NFTs & ERC20 tokens  
-- ✅ Intricate NFT metadata engines  
-- ✅ Sophisticated trading bots  
+- Staking reward dApps for NFTs & ERC20 tokens  
+- Intricate NFT metadata engines  
+- Sophisticated trading bots
+- DEX and CEX's
+- Building soltuions like Stripe to onchain payments
+- ETH Denver / Base Hackathons
+- Farcaster & Base Mini Apps
+- Brought 4 IRL companies onchain (Base) 2025
+- RWAS (Luxury raffle items, Car culture)
+- DeFi (Onchain donations growth using Morpho secure vaults)
+- Hardhat scaffolds
+- Mini App scaffolds
+- Teaching blockchain development at Stanford in LA
+- Virtual live coding workshops
 
 I am proficient with **Ethereum L1, Base, Optimism, and other L2 chains**.  
-My toolkit includes **Hardhat, Foundry, Wagmi, and Reown, Coinbase CDP, Farcaster Mini Apps**, enabling seamless integration across blockchain networks.  
+My toolkit includes **Hardhat, Foundry, Wagmi, Rainbowkit, Smart Wallets, x402 Agents and Reown, Coinbase CDP, Farcaster Mini Apps**, enabling seamless integration across blockchain networks.  
 
 On the frontend, I bring a strong command of **TypeScript, JavaScript, React, NextJS, Node.js, TailwindCSS, and CSS** — building dynamic, scalable, and visually appealing applications.  
 
 > :large_blue_square: Base Names:  
-> `justindbro.base.eth` | `decentralbros.base.eth`  
+> `justindbro.base.eth` | `decentralbros.base.eth`  | `basebuilder002.base.eth`
 
 ## Connect With Me
 <p align="center">
