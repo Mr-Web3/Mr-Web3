@@ -25,13 +25,15 @@ Notably, I’ve developed:
 - Mini App scaffolds
 - Teaching blockchain development at Stanford in LA
 - Virtual live coding workshops
+- Base App Dev
+- Open source code contributor
 
 I am proficient with **Ethereum L1, Base, Optimism, and other L2 chains**.  
 My toolkit includes **Hardhat, Foundry, Wagmi, Rainbowkit, Smart Wallets, x402 Agents and Reown, Coinbase CDP, Farcaster Mini Apps**, enabling seamless integration across blockchain networks.  
 
 On the frontend, I bring a strong command of **TypeScript, JavaScript, React, NextJS, Node.js, TailwindCSS, and CSS** — building dynamic, scalable, and visually appealing applications.  
 
-> :large_blue_square: Base Names:  
+>  Base Names:  
 > `justindbro.base.eth` | `decentralbros.base.eth`  | `basebuilder002.base.eth`
 
 ## Connect With Me
