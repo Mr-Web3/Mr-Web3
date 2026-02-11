@@ -28,6 +28,26 @@ Notably, I’ve developed:
 - Base App Dev
 - Open source code contributor
 
+## Base Ecosystem Involvement
+
+I have been building on Base since inception.
+- Participated in the Coinbase developer onboarding and pre-launch ETH Denver 2023 Base builder feedback sessions.
+- Contributed early developer feedback prior to Base mainnet launch.
+- Builder at ETH Denver for four consecutive years.
+- Participant in all major Base buildathons and hackathons.
+- Selected participant in both Base Batch programs.
+- On-site contributor at Base headquarters events in Austin, Texas — assisting developers in completing and submitting projects under tight deadlines (including 28-hour build windows).
+- Provided early ecosystem feedback including wallet modal UX improvements for Mini Apps.
+- Built one of the first documented Hybrid Web Apps featured in Base documentation — combining dApp and Mini App architecture in a unified system.
+- Active contributor to Base Mini App architecture discussions, documentation feedback, and ecosystem tooling.
+- Deployed company token infrastructure, staking systems, and production smart contract ecosystems fully on Base.
+
+### Current Ecosystem Work
+- Building with and partnering alongside the Fireside team, Base Batch winners currently in Incubase.
+- Continued infrastructure development for RWA systems, Mini Apps, and USDC-native payment flows on Base.
+- Ongoing production deployments under the Decentral Bros ecosystem.
+
+
 I am proficient with **Ethereum L1, Base, Optimism, and other L2 chains**.  
 My toolkit includes **Hardhat, Foundry, Wagmi, Rainbowkit, Smart Wallets, x402 Agents and Reown, Coinbase CDP, Farcaster Mini Apps**, enabling seamless integration across blockchain networks.  
 
@@ -75,7 +95,6 @@ On the frontend, I bring a strong command of **TypeScript, JavaScript, React, Ne
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=00FF00" />
 </p>
-
 
 
 <!-- <table align="center">
