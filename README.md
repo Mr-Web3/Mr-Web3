@@ -1,4 +1,4 @@
-# 👋 Justin AKA Mr-Web3 | DBRO 
+# 👋 Justin AKA Mr-Web3 
 
 ⚡ **Full Stack / Blockchain Developer Base Bound**  
 
@@ -18,12 +18,12 @@ Notably, I’ve developed:
 - Building soltuions like Stripe to onchain payments
 - ETH Denver / Base Hackathons
 - Farcaster & Base Mini Apps
-- Brought 4 IRL companies onchain (Base) 2025
-- RWAS (Luxury raffle items, Car culture)
-- DeFi (Onchain donations growth using Morpho secure vaults)
+- Brought 5 IRL companies onchain (Base) 2025 & 3 companies in 2026
+- RWAS (Car culture DRVN VHCLS LABO)
+- DeFi (Onchain donations growth using Morpho secure vaults, Full DEX & CEX)
 - Hardhat scaffolds
 - Mini App scaffolds
-- Teaching blockchain development at Stanford in LA
+- Teaching blockchain development at Stanford in LA & online
 - Virtual live coding workshops
 - Base App Dev
 - Open source code contributor
@@ -33,9 +33,8 @@ Notably, I’ve developed:
 I have been building on Base since inception.
 - Participated in the Coinbase developer onboarding and pre-launch ETH Denver 2023 Base builder feedback sessions.
 - Contributed early developer feedback prior to Base mainnet launch.
-- Builder at ETH Denver for four consecutive years.
-- Participant in all major Base buildathons and hackathons.
-- Selected participant in both Base Batch programs.
+- Builder at ETH Denver for four consecutive years 2022 - 2026 | SporkDAO Member
+- Participant in all major Base / Arcblock buildathons and hackathons.
 - On-site contributor at Base headquarters events in Austin, Texas — assisting developers in completing and submitting projects under tight deadlines (including 28-hour build windows).
 - Provided early ecosystem feedback including wallet modal UX improvements for Mini Apps.
 - Built one of the first documented Hybrid Web Apps featured in Base documentation — combining dApp and Mini App architecture in a unified system.
@@ -54,11 +53,11 @@ My toolkit includes **Hardhat, Foundry, Wagmi, Rainbowkit, Smart Wallets, x402 A
 On the frontend, I bring a strong command of **TypeScript, JavaScript, React, NextJS, Node.js, TailwindCSS, and CSS** — building dynamic, scalable, and visually appealing applications.  
 
 >  Base Names:  
-> `justindbro.base.eth` | `decentralbros.base.eth`  | `basebuilder002.base.eth`
+> `dbro.base.eth`  | `basebuilder002.base.eth`
 
 ## Connect With Me
 <p align="center">
-  <a href="https://x.com/DecentralBros_">
+  <a href="https://x.com/JTBuilds_">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF00" />
   </a>
   <a href="https://www.decentralbros.io">
@@ -70,7 +69,7 @@ On the frontend, I bring a strong command of **TypeScript, JavaScript, React, Ne
   <a href="https://app.talentprotocol.com/86d05e12-eaf9-463b-bfab-c9134ff5fdc4">
     <img src="https://img.shields.io/badge/Talent_Protocol-000000?style=for-the-badge&logo=hackaday&logoColor=00FF00" />
   </a>
-  <a href="https://farcaster.xyz/decentralbros">
+  <a href="https://farcaster.xyz/dbro.base.eth">
     <img src="https://img.shields.io/badge/Farcaster-000000?style=for-the-badge&logo=farcaster&logoColor=00FF00" />
   </a>
 </p>
