@@ -41,28 +41,17 @@ I have been building on Base since inception.
 - Active contributor to Base Mini App architecture discussions, documentation feedback, and ecosystem tooling.
 - Deployed company token infrastructure, staking systems, and production smart contract ecosystems fully on Base.
 
-### Current Ecosystem Work
-- Building with and partnering alongside the Fireside team, Base Batch winners currently in Incubase.
-- Continued infrastructure development for RWA systems, Mini Apps, and USDC-native payment flows on Base.
-- Ongoing production deployments under the Decentral Bros ecosystem.
-
 
 I am proficient with **Ethereum L1, Base, Optimism, and other L2 chains**.  
 My toolkit includes **Hardhat, Foundry, Wagmi, Rainbowkit, Smart Wallets, x402 Agents and Reown, Coinbase CDP, Farcaster Mini Apps**, enabling seamless integration across blockchain networks.  
 
 On the frontend, I bring a strong command of **TypeScript, JavaScript, React, NextJS, Node.js, TailwindCSS, and CSS** — building dynamic, scalable, and visually appealing applications.  
 
->  Base Names:  
+>  Personal ENS Base Names:  
 > `dbro.base.eth`  | `basebuilder002.base.eth`
 
 ## Connect With Me
 <p align="center">
-  <a href="https://x.com/JTBuilds_">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF00" />
-  </a>
-  <a href="https://www.decentralbros.io">
-    <img src="https://img.shields.io/badge/Company_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF00" />
-  </a>
   <a href="https://justin.dbro.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codesandbox&logoColor=00FF00" />
   </a>
