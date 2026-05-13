@@ -1,6 +1,6 @@
 # 👋 Justin AKA Mr-Web3 
 
-⚡ **Full Stack / Blockchain Developer Base Bound**  **Lead developer for DRVN Labo**
+⚡ **Full Stack / Blockchain Developer Base Bound** / **Lead developer for DRVN Labo**
 
 With 8 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
