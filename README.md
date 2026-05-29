@@ -2,7 +2,7 @@
 
 ⚡ **Full Stack / Blockchain Developer Base Bound** / **Lead developer for DRVN Labo**
 
-With 8 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
+With 9 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
 - IPFS, ERC20 tokens, NFTs, minting sites  
 - Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
