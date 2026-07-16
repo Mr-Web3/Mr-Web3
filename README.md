@@ -52,7 +52,7 @@ On the frontend, I bring a strong command of **TypeScript, JavaScript, React, Ne
 
 ## Connect With Me
 <p align="center">
-  <a href="https://justin.dbro.dev">
+  <a href="https://jtbuilds.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codesandbox&logoColor=00FF00" />
   </a>
   <a href="https://app.talentprotocol.com/86d05e12-eaf9-463b-bfab-c9134ff5fdc4">
