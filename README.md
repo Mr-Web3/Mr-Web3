@@ -1,10 +1,10 @@
-# 👋 Justin AKA Mr-Web3 
+# Seployer
 
-⚡ **Full Stack / Blockchain Developer Base Bound** / **Lead developer for DRVN Labo**
+👨‍💻 **Full Stack / Blockchain Developer Base Bound** / **Lead developer for DRVN Labo**
 
-With 9 + years of deep-rooted experience in blockchain technology, mining, protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
+Year's of deep-rooted experience in blockchain technology, mining, creating protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
-- IPFS, ERC20 tokens, NFTs, minting sites  
+- IPFS, ERC20, ERC1155, B20, ERC721-721A, NFTs, minting sites & more
 - Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
 - RWAs, APIs, developer tools, DeFi utilities  
 - Decentralized social media platforms & digital ticketing dApps  
