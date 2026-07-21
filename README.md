@@ -1,13 +1,13 @@
-# Seployer
+# 👤 0xBldr
 
-👨‍💻 **Full Stack / Blockchain Developer Base Bound** / **Lead developer for DRVN Labo**
+👨‍💻 **Full Stack** / **Lead developer for DRVN Labo LLC building vhcls.app - drvnvhcls.xyz - base buster coin**
 
 Year's of deep-rooted experience in blockchain technology, mining, creating protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
 - IPFS, ERC20, ERC1155, B20, ERC721-721A, NFTs, minting sites & more
 - Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
 - RWAs, APIs, developer tools, DeFi utilities  
-- Decentralized social media platforms & digital ticketing dApps  
+- Decentralized social media platforms, NFT marketplaces & digital ticketing dApps  
 - Multi-minting systems using ERC1155 and ERC721A  
 
 Notably, I’ve developed:  
