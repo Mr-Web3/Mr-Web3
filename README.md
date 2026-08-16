@@ -1,10 +1,10 @@
-# 👤 0xBldr
+# JTBuilds_
 
-👨‍💻 **Full Stack** / **Lead developer for DRVN Labo LLC building vhcls.app - drvnvhcls.xyz - base buster coin**
+**Full Stack** / **Lead developer for DRVN Labo LLC building the OS onchain infrastructure for vhcls.app - www.vhcls.app - Based Buster Coin**
 
-Year's of deep-rooted experience in blockchain technology, mining, creating protocols, EIP standards, I specialize in developing robust solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
+Year's of deep-rooted experience in blockchain technology, mining, creating protocols, EIP standards, cryptography I specialize in developing stacks - solutions on **Base  Chain** for dApps ~ Mini Apps. My expertise spans across:  
 
-- IPFS, ERC20, ERC1155, B20, ERC721-721A, NFTs, minting sites & more
+- IPFS, ERC20, ERC1155, B20, ERC721-721A, NFTs, minting, staking, DEX's sites & more
 - Innovative donation platforms, DEXs, staking, wrapping, oracles, custom built bridges, stablecoins  
 - RWAs, APIs, developer tools, DeFi utilities  
 - Decentralized social media platforms, NFT marketplaces & digital ticketing dApps  
